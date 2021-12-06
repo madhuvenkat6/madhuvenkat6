@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Madhu Venkat</h1>
 <h3 align="center">Full Stack Web Developer</h3>
+<p> Innovative Full stack Developer with a keen interest in building user-centric products. Detail oriented professional with a knack to learn new technologies. Looking forward to  leverage my experience and hands-on technical expertise in a challenging role as a Full-stack Developer</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhuvenkat6&label=Profile%20views&color=0e75b6&style=flat" alt="madhuvenkat6" /> </p>
 
