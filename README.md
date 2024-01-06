@@ -10,8 +10,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Madhu Venkat</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-<p> Innovative Full stack Developer with a keen interest in building user-centric products. Detail oriented professional with a knack to learn new technologies. Looking forward to  leverage my experience and hands-on technical expertise in a challenging role as a Full-stack Developer</p>
+<h3 align="center">Frontend Developer</h3>
+<p> FrontEnd developer with 2+ year of experience in successfully developing and delivering dynamic web solutions through React projects, demonstrating proficiency in crafting responsive and user-friendly interfaces.
+
+Proficient in ReactJs, HTML, CSS, and JavaScript | Dedicated to creating seamless user experiences.
+
+Eager to take on new challenges and contribute to innovative projects. Let's build something amazing together! 🔧💻 #ReactJS #WebDevelopment #JavaScript #HTML #CSS</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhuvenkat6&label=Profile%20views&color=0e75b6&style=flat" alt="madhuvenkat6" /> </p>
 
