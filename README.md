@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **madhuvenkatmedicharla@gmail.com**
 
+- LinkedIn **https://www.linkedin.com/in/madhu-venkat-medicharla-203894218**
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tj2lBW7K8V7mxsMr7bLq9QdOKmaFsap6/view?usp=sharing](https://drive.google.com/file/d/1tj2lBW7K8V7mxsMr7bLq9QdOKmaFsap6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
