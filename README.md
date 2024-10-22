@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Madhu Venkat</h1>
 <h3 align="center">Frontend Developer</h3>
-<p> FrontEnd developer with 2+ year of experience in successfully developing and delivering dynamic web solutions through React projects, demonstrating proficiency in crafting responsive and user-friendly interfaces.
+<p> FrontEnd developer with 3+ year of experience in successfully developing and delivering dynamic web solutions through React projects, demonstrating proficiency in crafting responsive and user-friendly interfaces.
 
-Proficient in ReactJs, HTML, CSS, and JavaScript | Dedicated to creating seamless user experiences.
+Proficient in ReactJs, HTML, CSS, javaScript, ReactNative | Dedicated to creating seamless user experiences.
 
 Eager to take on new challenges and contribute to innovative projects. Let's build something amazing together! 🔧💻 #ReactJS #WebDevelopment #JavaScript #HTML #CSS</p>
 
